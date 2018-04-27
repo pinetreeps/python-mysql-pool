@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # coding=utf-8
 import MySQLdb
-from mysql.connector import errors
+from PyMysqlPool.mysql.connector import errors
 import PyMysqlPool.mysql.connector
 from PyMysqlPool.db_util.python_rf.pool_convertor import FuzzyMySQLConverter
 
